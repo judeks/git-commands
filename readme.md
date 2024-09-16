@@ -34,4 +34,4 @@ Permet de lister les modifications en local
 ## git rebase 
 - Permet de recuperer les modifications dans la branche mere
 - Les modifications de la branche mere sont placees en dessous des modifications de la branche courante
--Les modifications de la branche courante sont placees au dessus des modifications de la branche mere
+- Les modifications de la branche courante sont placees au dessus des modifications de la branche mere
