@@ -28,3 +28,6 @@ Permet de lister les modifications en local
 - Permet de passer d'une branche a une autre
 - Permet de deplacer d'une branche a une autre
 - Avec l'option -b checkout cree la branche si elle n'existe pas
+
+## git pull
+- Permet de recuperer les modifications distantes
