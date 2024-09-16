@@ -35,3 +35,10 @@ Permet de lister les modifications en local
 - Permet de recuperer les modifications dans la branche mere
 - Les modifications de la branche mere sont placees en dessous des modifications de la branche courante
 - Les modifications de la branche courante sont placees au dessus des modifications de la branche mere
+## git reset
+- Permet de supprimer un commit
+- Permet de revenir a un commit precis defini par son identifiant
+- Attention a utiliser avec precaution
+
+## git diff
+- Permet de comparer deux commits
